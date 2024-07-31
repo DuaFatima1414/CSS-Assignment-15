@@ -18,6 +18,11 @@ background-image: url(https://fontawesome.com/images/pro-upgrade-bg.svg);
 background: no-repeat;
 }
 
+a{
+    font-size: 100px;
+    font-family: Airal;
+}
+
 body {
 display: flex;
 }
