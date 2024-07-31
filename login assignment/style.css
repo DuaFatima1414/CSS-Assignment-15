@@ -5,11 +5,9 @@
     font-family: "poppins", sans-serif;
 }
 
-a {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: x-large;
-    color: rgb(0, 0, 0);
-    
+a{
+    font-size: 100px;
+    font-family: Airal;
 }
 :root {
     --primary-color: #c6c3c3;
